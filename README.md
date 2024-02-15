@@ -15,6 +15,16 @@ Once you have Rust installed, you can use Cargo, Rust's package manager and buil
 
 To run scrapedia, run the following command in your terminal:
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/furqoncreative/scrapedia
+```
+2. Change directory to the project folder:
+```bash
+cd scrapedia
+```
+3. Build and install the CLI app using Cargo:
 ```bash
 cargo run -- [OPTIONS]
 

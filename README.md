@@ -11,9 +11,9 @@ Before you can use Scrapedia, you need to have Rust installed on your system. Fo
 
 ## Usage
 
-Once you have Rust installed, you can use Cargo, Rust's package manager and build system, to install and run My CLI Rust App.
+Once you have Rust installed, you can use Cargo, Rust's package manager and build system, to install and run Scrapedia.
 
-To run scrapedia, run the following command in your terminal:
+To run Scrapedia, run the following command in your terminal:
 
 1. Clone the repository:
 

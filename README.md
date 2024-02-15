@@ -35,6 +35,30 @@ Options:
 ```
 
 ## Example
+### command
 ```bash
 cargo run -- -q iphone
+```
+### output (products.json)
+```json
+[
+  {
+    "product_name": "IBOX Apple iPhone 15 Pro 128GB 256GB 512GB 1TB Blue Natural Titanium",
+    "rating": "5.0",
+    "store_name": "Studio Ponsel",
+    "store_location": "Jakarta Pusat",
+    "purchase_amount": "500+ terjual",
+    "discount_info": "16%",
+    "product_image_url": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/10/27/0c56f8cc-e374-4e8a-a691-88a398c7c3d9.jpg"
+  },
+  {
+    "product_name": "iPhone 14 Garansi Resmi",
+    "rating": "5.0",
+    "store_name": "igoods gadget",
+    "store_location": "Jakarta Barat",
+    "purchase_amount": "750+ terjual",
+    "discount_info": "17%",
+    "product_image_url": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/8/25/a6326dd1-8334-4fd7-821a-5ace01e12c2e.png"
+  }
+]
 ```

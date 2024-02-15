@@ -35,11 +35,11 @@ Options:
 ```
 
 ## Example
-### command
+### Command
 ```bash
 cargo run -- -q iphone
 ```
-### output (products.json)
+### Output (products.json)
 ```json
 [
   {
